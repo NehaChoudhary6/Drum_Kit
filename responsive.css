@@ -1,0 +1,25 @@
+@media screen and (max-width: 990px) {
+    body{
+        background-color: rgb(69, 220, 35);
+    }
+    h1 {
+        font-size: 6rem;
+       
+    }
+    .set {
+        margin: 10% 15%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .drum {
+        
+        width: 175px;
+        height: 175px;
+        margin: 22px;
+        
+    }
+    footer {
+        
+        font-size: 30px;
+    }
+}
